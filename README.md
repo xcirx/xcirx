@@ -1,16 +1,23 @@
-## Hi there 👋
+# Selam, ben xcirx! 👋
 
-<!--
-**xcirx/xcirx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılım yolculuğuma Python ile başladım ve şu an bu dilde kendimi derinleştiriyorum. Veri yapıları, algoritmalar ve otomasyon konularına meraklıyım.
 
-Here are some ideas to get you started:
+### 🐍 Python Yolculuğum
+- 🔭 Şu anda **Python ile Bot Geliştirme** üzerine çalışıyorum.
+- 🌱 Temel seviyede Python kütüphanelerine hakimim ve kendimi geliştiriyorum.
+- ⚡ GitHub'da ilk projelerimi yayınlayarak açık kaynak dünyasına adım atıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Yeteneklerim
+- **Dil:** Python (Temel/Orta Seviye)
+- **Araçlar:** VS Code, Git, PyCharm
+- **İlgi Alanları:** Veri Bilimi, Backend Geliştirme, Scripting
+
+### 📬 Bağlantı Kur
+- **E-posta:** xcirx@proton.me
+
+---
+
+### Bildiğim Diller & Araçlar:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
