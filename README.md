@@ -10,8 +10,7 @@ Yazılım yolculuğuma Python ile başladım ve şu an bu dilde kendimi derinle�
 ### 🛠️ Yeteneklerim
 - **Dil:** Python (Temel/Orta Seviye)
 - **Araçlar:** VS Code, Git, PyCharm
-- **İlgi Alanları:** Veri Bilimi, Backend Geliştirme, Scripting
-
+- 
 ### 📬 Bağlantı Kur
 - **E-posta:** xcirx@proton.me
 
