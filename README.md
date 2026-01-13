@@ -1,22 +1,21 @@
-# Selam, ben xcirx! 👋
+# Selamlar, ben xcirx!👋
 
-Yazılım yolculuğuma Python ile başladım ve şu an bu dilde kendimi derinleştiriyorum. Veri yapıları, algoritmalar ve otomasyon konularına meraklıyım.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=[KULLANICI_ADIN]&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="görüntülenme" />
+</p>
 
-### 🐍 Python Yolculuğum
-- 🔭 Şu anda **Python ile Bot Geliştirme** üzerine çalışıyorum.
-- 🌱 Temel seviyede Python kütüphanelerine hakimim ve kendimi geliştiriyorum.
-- ⚡ GitHub'da ilk projelerimi yayınlayarak açık kaynak dünyasına adım atıyorum.
+### 🚀 Hakkımda
+- 🎓 **Bilişim Teknolojileri** Öğrencisiyim.
+- 💻 Teknolojiyi ve kod yazmayı keşfetme aşamasındayım.
+- 🎯 Hedefim: Kendimi yazılım dünyasında geliştirip güzel projeler üretmek.
 
-### 🛠️ Yeteneklerim
-- **Dil:** Python (Temel/Orta Seviye)
-- **Araçlar:** VS Code, Git, PyCharm
-- 
-### 📬 Bağlantı Kur
-- **E-posta:** xcirx@proton.me
-
+### 🛠️ Yeteneklerim ve Araçlarım
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,visualstudio" />
+</p>
 ---
 
-### Bildiğim Diller & Araçlar:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+### 📬 Bana Ulaşın:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[bxki.de])
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/[1458157210810187787])
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xcirx@proton.me)
