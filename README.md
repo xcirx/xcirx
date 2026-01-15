@@ -12,7 +12,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,visualstudio" />
 </p>
----
 
 ### 📬 Bana Ulaşın:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bxki.de)
