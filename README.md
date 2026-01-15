@@ -1,7 +1,6 @@
 # Selamlar, ben xcirx!👋
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=[KULLANICI_ADIN]&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="görüntülenme" />
 </p>
 
 ### 🚀 Hakkımda
